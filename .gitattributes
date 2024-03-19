@@ -1,0 +1,16 @@
+#remove html from language
+*.html linguist-vendored
+#remove js
+*.js linguist-vendored
+
+#css
+*.css linguist-vendored
+
+#json
+*.json linguist-vendored
+
+#scss   
+*.scss linguist-vendored
+
+#xml
+*.xml linguist-vendored
