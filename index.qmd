@@ -1,5 +1,5 @@
 ---
-page-title: "GitHub Wrapped 2023"
+page-title: "munoztd0 - GitHub Wrapped 2023"
 format: 
   dashboard:
     scrolling: true 
@@ -7,11 +7,11 @@ theme: darkly
 execute: 
   echo: false
 params:
-    userid: "schochastics"
+    userid: "munoztd0"
     highlight: "#DBAC34"
     anti_color: "#DB5934"
     bg_color: "#2D2D2D"
-    ignore_lang: "CSS,JavaScript,SCSS,HTML,TeX"
+    ignore_lang: "CSS,SCSS,HTML,TeX,Less, Makefile"
 ---
 
 ```{r}
